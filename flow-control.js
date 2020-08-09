@@ -20,8 +20,3 @@ function ageChecker(age) {
     "You are a grownup"
   }
 }
-
-
-
-
-
